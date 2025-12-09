@@ -21,7 +21,7 @@ Cada país será dividido em oito estados, identificados pelas letras de A a H. 
   - **Área**
   - **PIB**
   - **Número de pontos turísticos**
-  
+
 ### ⚙️ Funcionalidades do Sistema:
 - O sistema permitirá ao usuário cadastrar cartas de cidades, inserindo manualmente os dados via terminal de comando.
 - Após o cadastro, o sistema exibirá os dados de cada cidade de forma clara e organizada.
